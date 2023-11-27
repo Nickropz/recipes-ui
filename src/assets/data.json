@@ -1,0 +1,34 @@
+{
+    "results": [
+        {
+            "name": "Recipe 1",
+            "country": "United States",
+            "lat": 37,
+            "lng": -98
+        },
+        {
+            "name": "Recipe 2",
+            "country": "India",
+            "lat": 21,
+            "lng": 78
+        },
+        {
+            "name": "Recipe 3",
+            "country": "Brazil",
+            "lat": -11,
+            "lng": -49
+        },
+        {
+            "name": "Recipe 4",
+            "country": "United States",
+            "lat": 43,
+            "lng": -119
+        },
+        {
+            "name": "Recipe 5",
+            "country": "Germany",
+            "lat": 48,
+            "lng": 11
+        }
+    ]
+}
